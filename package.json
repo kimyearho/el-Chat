@@ -7,6 +7,8 @@
   },
   "author": "KimYeonHo",
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "~1.6.2",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
   }
 }
