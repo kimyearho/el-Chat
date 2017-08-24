@@ -1,0 +1,12 @@
+{
+  "name": "electronChat",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "KimYeonHo",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
